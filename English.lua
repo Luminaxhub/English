@@ -84,7 +84,10 @@ local colorOptions = {
 	["Really blue"] = BrickColor.new("Really blue"),
 	["Black"] = BrickColor.new("Black"),
 	["New Yeller"] = BrickColor.new("New Yeller"),
-	["White"] = BrickColor.new("White")
+	["White"] = BrickColor.new("White"),
+	["Purple"] = BrickColor.new("Bright violet"),
+	["Pink"] = BrickColor.new("Hot pink"),
+	["Orange"] = BrickColor.new("Bright orange"),
 }
 
 local dropdownOpen = false
